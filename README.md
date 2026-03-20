@@ -1,2 +1,3 @@
-# pro-code-reviewer-w6bj
-Automated code review tool for modern development workflows
+# Pro Code Reviewer W6Bj
+
+A automated code review tool for modern development workflows.
